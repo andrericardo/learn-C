@@ -5,6 +5,8 @@
 
 int main()
 {
+    printf("Fahr Celsius\n");
+
     float fahr, celsius;
     int lower, upper, step;
 
